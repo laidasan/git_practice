@@ -6,3 +6,6 @@ function test() {
 function shop() {
     console.log('shop');
 }
+function tt() {
+    console.log('tt');
+}
